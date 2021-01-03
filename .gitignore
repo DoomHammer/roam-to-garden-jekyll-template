@@ -13,3 +13,8 @@ _includes/notes_graph.json
 
 # Obsidian config
 .obsidian/
+
+# Roam-to-git working directories
+markdown
+formatted
+json
